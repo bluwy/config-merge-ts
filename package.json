@@ -1,0 +1,10 @@
+
+{
+  "name": "config-merge-ts",
+  "private": true,
+  "devDependencies": {
+    "@sveltejs/config": "^1.0.0",
+    "foo": "^1.0.0",
+    "bar": "^1.0.0"
+  }
+}
